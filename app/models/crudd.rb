@@ -1,0 +1,2 @@
+class Crudd < ApplicationRecord
+end
